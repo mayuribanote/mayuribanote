@@ -2,7 +2,7 @@
 - 🎓I’m MCA student|aspiring IT professional
 - 👀 I’m interested in cybersecurity|cloud computing  
 - 🌱 I’m currently learning web development|python|Git & GitHub
-- 📫 How to reach me www.linkedin.com/in/mayuribanote016272
+- 📫 How to reach me www.linkedin.com/in/mayuribanote
 - ⚡ Fun fact: i❤️ reading books and enjoy playing badminton in my free time!
 
 <!---
